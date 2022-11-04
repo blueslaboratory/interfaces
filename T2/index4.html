@@ -1,0 +1,54 @@
+<!--
+02/11/2022
+-->
+
+<!--
+https://codeshare.io/qPWkdx
+La zona de presentación irá separada del formulario un 50% del tamaño del tipo de letra
+
+Cada glifo irá separado del siguiente (derecha y abajo) un 50% del tamaño del tipo de letra
+
+El texto indicando el HTML entity irá en color "grey" y con un tamaño de letra del 70%
+
+El glifo, en color #101050, 3 veces más grande, con una caja siempre
+cuadrada del ancho del tipo de letra, con un margen con el borde del 25% del tamaño
+de letra, con un borde "grey" de 1px y bordes redondeados de un 20% del tamaño del tipo
+de letra, centrado y "recortando" el glifo para que no se salga de la caja
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="assets/scripts/script.js"></script>
+        <link rel="stylesheet" href="assets/css/styles-index4.css">
+    </head>
+    <body>
+        <header>
+            <h1>Visor de glifos</h1>
+            Por <a rel="author">Santiago Aréchaga Tarruell</a>
+        </header>
+        <form>
+            <fieldset>
+                <legend>Opciones de visualización</legend>
+                <div>
+                    <datalist id="datalist_tipos_letra">
+                        <option value="Wingdings">
+                        <option value="Webdings">
+                        <option value="Arial">
+                        <option value="Courier New">
+                        <option value="Tahoma">
+                        <option value="Verdana">
+                    </datalist>
+                    <label for="input_tipo_letra">Tipo de letra:</label>
+                    <input type="text" list="datalist_tipos_letra" id="input_tipo_letra" placeholder="Nombre del tipo de letra">
+                </div>
+                <div>
+                    <label for="input_inicio">Inicio:</label>
+                    <input type="number" value="32" width="8" id="input_inicio">
+                    <label for="input_final">Final:</label>
+                    <input type="number" value="255" width="8" id="input_final">
+                </div>
+                <input type="button" value="Mostrar" id="boton_mostrar" onclick="on_boton_mostrar_click();">
+            </fieldset>
+        </form>
+        <div id="zona_glifos"></div>

@@ -1,0 +1,40 @@
+<!-- 25/10/2022 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Dia 1</title>
+    <style>
+        .posicion{
+            right: -1em;
+            top: -0.5em;
+            
+            /* position hay que verlo en w3schools*/
+            position: absolute;
+
+            padding: 0.25em;
+            border: 3px solid navy;
+        }
+
+        .size{
+            width: 5em;
+            display: inline-block;
+            padding: 0.25em;
+            border: 3px solid navy;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus officiis aperiam quasi natus distinctio, dignissimos veniam, aspernatur accusantium quo consequatur alias adipisci assumenda, tempore ullam eligendi ea vero totam incidunt?</p>
+    <p style="position: relative; border: 2px solid red">
+        Este texto <span class="posicion">esta posicionado</span> con respecto al resto
+    </p>
+    <p>
+        Este texto <span class="size"> esta cambiado de tamaño </span> con respecto al resto
+    </p>
+</body>
+</html>

@@ -1,0 +1,53 @@
+/*
+https://codeshare.io/qPWkdx
+La zona de presentación irá separada del formulario un 50% del tamaño del tipo de letra
+
+Cada glifo irá separado del siguiente (derecha y abajo) un 50% del tamaño del tipo de letra
+
+El texto indicando el HTML entity irá en color "grey" y con un tamaño de letra del 70%
+
+El glifo, en color #101050, 3 veces más grande, con una caja siempre
+cuadrada del ancho del tipo de letra, con un margen con el borde del 25% del tamaño
+de letra, con un borde "grey" de 1px y bordes redondeados de un 20% del tamaño del tipo
+de letra, centrado y "recortando" el glifo para que no se salga de la caja
+*/
+
+#zona_glifos{
+    max-width: 100%;
+    margin-top: 0.5em;
+}
+
+.glifo{
+    display: inline-block;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 0.25em;
+
+    text-align: center;
+}
+
+/* 1º span */
+/* .glifo .texto{ */
+.glifo span:nth-child(1){
+    display: block;
+
+    /* centrandolo con respecto a su father .glifo */
+    margin: 0 auto;
+    
+    /*tamaño por defecto para los simbolos que no lo tienen1*/
+    height: 1em;
+    width: 1em;
+    padding: 0.25em;
+    text-align: center;
+   
+    font-size: 3em;
+    border: 1px solid gray;
+    border-radius: 20%;
+    color: #101050;
+}
+
+/* 2º span */
+.glifo span:nth-child(2){
+    font-size: 0.7em;
+    color: gray;
+}

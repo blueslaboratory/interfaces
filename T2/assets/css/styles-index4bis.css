@@ -1,0 +1,49 @@
+#zona_glifos {
+    max-width: 100%;
+    min-height: 50px;
+    box-sizing: border-box;
+
+    padding: 10px;
+
+    margin: 10px;
+
+}
+
+.glifo {
+    /*Tiene que estar así para que se comporte como un objeto en línea y salgan 
+    unos al lado de otros, pero también como un bloque para poder darles un tamaño.
+    Seguramente poniendo solo inline también funcionaría ya que cogería el tamaño 
+    del contenido, es decir, de los span que se comportan en bloque */
+    display: inline-block;
+
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 0.25em;
+}
+
+.glifo span {
+    display: block;
+}
+
+#zona_glifos .glifo span[style] {
+    /*Aquí les pongo tamaño para aquellos símbolos que no existen y salen blancos*/
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+
+    font-size: 3em;
+    border: grey 1px solid;
+    border-radius: 10%;
+    color: #101050;
+
+}
+
+#zona_glifos .glifo>span+span {
+    /*Esto está un poco regumal porque previamente he dicho que se comporten todos 
+    los spam en bloque, pero hace su función que es poder poner text-aling para centrar el texto.
+    Seguramente sin poner el estilo del display:inline también centraría el texto*/
+    display: inline;
+    font-size: 0.7em;
+    color: grey;
+    text-align: center;
+}

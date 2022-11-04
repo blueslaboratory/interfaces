@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/styles-index.css">
+    <title>Dia 0</title>
+    <style>
+        h1{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: yellow;
+        }
+        h2{
+            background-color: green;
+        }
+        h1, h2{
+            color: blue
+        }
+
+
+        .rojo{
+            background-color: red;
+        }
+        .azul{
+            background-color: blue;
+        }
+        .verde{
+            background-color: green;
+        }
+        .grande-mayor{
+            font-size: 250%;
+        }
+        
+
+        /* todos los divs que tengan la clase azul */
+        div.azul{
+
+        }
+        /* un h1 que tenga como hijo inmediato una clase .rojo */
+        h1 > .rojo{
+            background-color: yellow;
+        }
+
+
+        /* enlaces */
+        /* All CSS Attribute Selectors -> hay que saberselos */
+        /* https://www.w3schools.com/css/css_attribute_selectors.asp */
+        a[href]{
+            border: 1px solid blue;
+        }
+        /* estrictamente empieza por http */
+        a[href^="http"]{
+            border: 1px solid red;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <h1>Hola 1 - clase rojo</h1>
+    <h2>Hola 2 - clase azul</h2>
+    <h3>Hola 3</h3>
+    <hr>
+
+    <br><br>
+    <h1 class="rojo">Hola 1 - clase rojo</h1>
+    <h2 class="azul">Hola 2 - clase azul</h2>
+    <h3>Hola 3</h3>
+    
+    <div class="azul grande-mayor">
+        Hola 4
+    </div>
+
+    <p class="rojo">
+        p clase rojo
+    </p>
+    <div class="verde">
+        div clase verde
+    </div>
+
+    <h1>
+       <p class="rojo">P2</p> 
+    </h1>
+
+    <!-- Enlaces -->
+    <a href="doc1.html">Enlace 1</a>
+    <a href="https://www.linuxmint.com">Linux Mint</a>
+    <a href="">Enlace 3</a>
+    <a>Enlace 4</a>
+</body>
+</html>
