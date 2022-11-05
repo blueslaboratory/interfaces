@@ -12,6 +12,8 @@ de letra, con un borde "grey" de 1px y bordes redondeados de un 20% del tamaño 
 de letra, centrado y "recortando" el glifo para que no se salga de la caja
 */
 
+/* em: relativo al tamaño del tipo de letra del elemento */
+
 #zona_glifos{
     max-width: 100%;
     margin-top: 0.5em;
@@ -21,7 +23,7 @@ de letra, centrado y "recortando" el glifo para que no se salga de la caja
     display: inline-block;
     margin-right: 0.5em;
     margin-bottom: 0.5em;
-    padding: 0.25em;
+    /* padding: 0.25em; */
 
     text-align: center;
 }
@@ -34,20 +36,57 @@ de letra, centrado y "recortando" el glifo para que no se salga de la caja
     /* centrandolo con respecto a su father .glifo */
     margin: 0 auto;
     
-    /*tamaño por defecto para los simbolos que no lo tienen1*/
+    /* tamaño por defecto para los simbolos que no lo tienen1 */
     height: 1em;
     width: 1em;
     padding: 0.25em;
     text-align: center;
+
+    /* ocultar la imagen */
+    overflow: hidden;
    
     font-size: 3em;
     border: 1px solid gray;
-    border-radius: 20%;
+    border-radius: 0.2em;
     color: #101050;
 }
 
 /* 2º span */
+/* herada: display block y text-align center */
 .glifo span:nth-child(2){
     font-size: 0.7em;
     color: gray;
+}
+
+
+
+
+/* "Mejorando" la cabecera y el formulario */
+header h1{
+    font-family: monospace, Verdana;
+    font-weight: 700;
+}
+
+header a:hover{
+    font-style: italic;
+}
+
+form{
+    margin: 1em;
+}
+
+div, #boton_mostrar{
+    margin: 1em;
+}
+
+input{
+    background-color: aquamarine;
+}
+
+#boton_mostrar{
+    width: 101px;
+
+    font-family: monospace, Verdana;
+    background-color: #420b32;
+    color: white;
 }
