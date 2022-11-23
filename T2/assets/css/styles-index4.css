@@ -90,3 +90,23 @@ input{
     background-color: #420b32;
     color: white;
 }
+
+
+
+/* 11/11/2021 */
+.glifo:hover {
+    background-color: midnightblue;
+    border-radius: 0.2em;
+}
+
+.glifo:hover > span:first-child{
+    background-color: mediumturquoise;
+    color: black;
+    border-radius: 100%;
+    border-color: white;
+}
+
+.glifo > span:last-child:hover{
+    color: white;
+    font-weight: bold;
+}
