@@ -1,0 +1,15 @@
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/bin/Debug/net7.0/C#
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/bin/Debug/net7.0/C#.deps.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/bin/Debug/net7.0/C#.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/bin/Debug/net7.0/C#.pdb
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/refint/C#.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.pdb
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/obj/Debug/net7.0/ref/C#.dll

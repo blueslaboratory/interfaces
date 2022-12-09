@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nib1uQ6SDLlObw5mqHdznLMfQEesgtogbxwDe+b/0sYUg2UpmO0HMJV/ZeiwlP8GFOX1Ot8/yC0SH27BcHEZOQ==",
+  "success": true,
+  "projectFilePath": "/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/02 Proyecto.csproj",
+  "expectedPackageFiles": [
+    "/home/alejandro/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/home/alejandro/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/alejandro/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/alejandro/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/alejandro/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/alejandro/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/alejandro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

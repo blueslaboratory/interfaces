@@ -1,0 +1,66 @@
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/appsettings.Development.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/appsettings.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.deps.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.runtimeconfig.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.pdb
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.csproj.AssemblyReference.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.AssemblyInfoInputs.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.AssemblyInfo.cs
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.csproj.CoreCompileInputs.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.MvcApplicationPartsAssemblyInfo.cs
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.MvcApplicationPartsAssemblyInfo.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.02 Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.build.02 Proyecto.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.02 Proyecto.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.02 Proyecto.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets.pack.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets.build.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets.development.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/scopedcss/bundle/02 Proyecto.styles.css
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.csproj.CopyComplete
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/refint/02 Proyecto.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.pdb
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.genruntimeconfig.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/C#/02 Proyecto/obj/Debug/net7.0/ref/02 Proyecto.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/appsettings.Development.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/appsettings.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.deps.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.runtimeconfig.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/02 Proyecto.pdb
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.csproj.AssemblyReference.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.AssemblyInfoInputs.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.AssemblyInfo.cs
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.csproj.CoreCompileInputs.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.MvcApplicationPartsAssemblyInfo.cs
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.MvcApplicationPartsAssemblyInfo.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.02 Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.build.02 Proyecto.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.02 Proyecto.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.02 Proyecto.props
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets.pack.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets.build.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/staticwebassets.development.json
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/scopedcss/bundle/02 Proyecto.styles.css
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.csproj.CopyComplete
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/refint/02 Proyecto.dll
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.pdb
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/02 Proyecto.genruntimeconfig.cache
+/media/alejandro/MSI DATA/DOCUMENTS/DA2D1E-2/Diseño web y desarrollo de interfaces/Practica/C#/02 Proyecto/obj/Debug/net7.0/ref/02 Proyecto.dll
